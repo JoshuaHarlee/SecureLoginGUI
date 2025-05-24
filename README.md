@@ -12,9 +12,6 @@ A desktop-based **Python GUI login system** with **encryption** and **MySQL data
 - 🧠 **Password reset**
 - 🖼️ **Modern GUI layout with custom graphics**
 
----
-
-> 💡 Create a folder called `screenshots` and save your images there with these filenames for them to display.
 
 ---
 
