@@ -14,12 +14,6 @@ A desktop-based **Python GUI login system** with **encryption** and **MySQL data
 
 ---
 
-## 📸 Screenshots
-
-| Sign Up | Login | Encryption |
-|--------|--------|-------------|
-| ![signup](screenshots/signup.png) | ![login](screenshots/login.png) | ![encrypt](screenshots/encrypt.png) |
-
 > 💡 Create a folder called `screenshots` and save your images there with these filenames for them to display.
 
 ---
